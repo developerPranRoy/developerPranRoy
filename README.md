@@ -1,5 +1,14 @@
-# 💫 About Me:
-# Hi, I'm Pran Kumar Roy 👋<br><br>I'm a **Self-Taught Full-Stack Developer** focused on building scalable web applications and **AI-powered software**.<br><br>I work primarily with **TypeScript, JavaScript, React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Redis, Docker, and Nginx**. I'm also exploring **Generative AI, RAG, Vector Databases, LangChain, LangGraph, and AI Agents** to build practical AI-powered applications.<br><br>### 🚀 What I Do<br><br>* Build full-stack web applications from frontend to backend<br>* Design REST APIs and backend services<br>* Work with SQL & NoSQL databases and performance optimization<br>* Build authentication, authorization, payments, and background jobs<br>* Develop AI-powered applications using LLMs, RAG, Vector DBs, and AI Agents<br>* Work with Docker, Nginx, API gateways, microservices, and CI/CD<br>* Study system design, distributed systems, clean architecture, and scalable software engineering<br><br>### 🛠️ Tech Stack<br><br>**Languages:** TypeScript, JavaScript, SQL, Go, C/C++<br><br>**Frontend:** React, Next.js, Redux, Tailwind CSS, TanStack Query, Zod<br><br>**Backend:** Node.js, Express.js, REST APIs, Microservices<br><br>**Databases:** PostgreSQL, MongoDB, Redis, Prisma<br><br>**AI:** LLM APIs, RAG, Vector Databases, LangChain, LangGraph, AI Agents<br><br>**DevOps:** Docker, Nginx, CI/CD, AWS<br><br>### 📌 Currently Learning<br><br>System Design • Distributed Systems • Database Internals • DSA • AI Engineering • Cloud Architecture<br><br>I believe in **learning by building**, understanding systems from the fundamentals, and continuously improving through real-world projects.<br><br>📫 **Open to Full-Stack Developer opportunities and collaboration.**<br>
+# 👋 Hi, I'm Pran Kumar Roy
+
+**Full-Stack Developer | AI Application Developer**
+
+Building **scalable web applications & AI-powered software** with
+**TypeScript · Node.js · React · Next.js · PostgreSQL · MongoDB · Redis**
+
+Currently exploring **System Design · DSA · RAG · AI Agents**
+
+🚀 **Open to Full-Stack & Backend opportunities**
+
 
 
 ## 🌐 Socials:
